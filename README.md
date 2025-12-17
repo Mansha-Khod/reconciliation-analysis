@@ -54,3 +54,16 @@ The reconciliation process follows these key steps:
 ---
 
 ## Repository Structure
+gl-tb-reconciliation-analysis/
+│
+├── GL_TB_Reconciliation.ipynb
+├── general_ledger.csv
+├── trial_balance.csv
+├── README.md
+└── requirements.txt
+
+
+---
+
+## Notes
+The datasets used in this project are simulated for learning purposes but are designed to closely resemble real-world financial data structures commonly used in corporate accounting systems.
