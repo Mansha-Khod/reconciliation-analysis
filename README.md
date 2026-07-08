@@ -14,7 +14,7 @@ https://financial-reconciliation-platform.streamlit.app/
 
 **Demo Video**
 
-> Add YouTube / Loom Link Here
+<img src="assests/demo_.gif" alt="Application Demo Video" width="100%">
 
 ---
 
