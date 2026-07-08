@@ -20,9 +20,29 @@ REQUIRED_COLUMNS = [
     "Amount"
 ]
 ACCOUNT_ALIASES = {
-    "Rent Expense": "Rent",
-    "Sales Revenue": "Sales",
+    # Assets
     "Accounts Receivable": "Receivables",
     "Accounts Payable": "Payables",
-    "Cost Of Goods Sold": "COGS"
+    "Prepaid Expense": "Prepaid Expenses",
+    "Prepaid Expenses": "Prepaid Expenses",
+
+    # Revenue
+    "Sales Revenue": "Sales",
+    "Revenue": "Sales",
+    "Service Revenue": "Service Revenue",
+
+    # Expenses
+    "Rent Expense": "Rent",
+    "Salaries Expense": "Salaries",
+    "Salary Expense": "Salaries",
+    "Utilities Expense": "Utilities",
+    "Insurance Expense": "Insurance",
+    "Marketing Expense": "Marketing",
+    "Depreciation Expense": "Depreciation",
+    "Supplies Expense": "Supplies",
+    "Interest Expense": "Interest",
+
+    # Inventory
+    "Cost Of Goods Sold": "COGS",
+    "Cost Of Sales": "COGS",
 }
