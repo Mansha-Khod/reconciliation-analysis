@@ -23,8 +23,8 @@ The platform validates, cleans, standardizes, matches, and reconciles General Le
 ### Dashboard
 
 ![dashboard_1](assests/screenshots/dashboard_1.png)
-![dashboard_1](assests/screenshots/dashboard_2.png)
-![dashboard_1](assests/screenshots/dashboard_3.png)
+![dashboard_2](assests/screenshots/dashboard_2.png)
+![dashboard_3](assests/screenshots/dashboard_3.png)
 
 ---
 
