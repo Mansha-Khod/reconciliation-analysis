@@ -14,7 +14,13 @@ https://financial-reconciliation-platform.streamlit.app/
 
 **Demo Video**
 
-![demo_video](assets/demo.gif)
+<video src="https://github.com/user-attachments/assets/c4c052c4-6efb-44a4-b95c-e3824427e812" width="100%" controls autoplay loop muted playsinline></video>
+
+
+---
+
+
+
 
 
 ---
